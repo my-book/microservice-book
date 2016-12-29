@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [chapter-one](introduction.md)
-* [chapter-two](chapter-two.md)
 * [1.1.chapter01](11chapter01.md)
+* [chapter-two](chapter-two.md)
 
